@@ -106,3 +106,14 @@ p {
 #products {
     background-color: #EEEADD;
 }
+
+
+
+.chips_bags {
+    display: flex;
+    flex-direction: row;
+}
+
+.chips_bags img {
+    width: 10%
+}
