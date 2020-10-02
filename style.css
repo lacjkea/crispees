@@ -1,0 +1,5 @@
+#splash {
+    background-image: url(img/splash_nature.png);
+    background-size: cover;
+    height: 100vh;
+}
