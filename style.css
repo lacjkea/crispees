@@ -1,3 +1,8 @@
+.navbar-brand {
+    font-family: 'Kaushan Script', cursive;
+    color: #BDA07F;
+}
+
 #splash {
     background-image: url(img/splash_nature.png);
     background-size: cover;
@@ -22,4 +27,32 @@
     width: 30vw;
     margin-left: 15%;
     margin-top: 20%
+}
+
+#about {
+    background-color: #F7F6F2;
+}
+
+#about h2,
+p {
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+#about h2 {
+    margin-bottom: 2%;
+    font-size: 1.7rem;
+    font-family: 'Euphemia UCAS';
+    word-spacing: -0.5vw;
+    color: #BDA07F;
+}
+
+#about p {
+    margin-bottom: 5%;
+    font-family: 'Raleway', sans-serif;
+    color: #605344;
+}
+
+#about img {
+    width: 100%;
 }
