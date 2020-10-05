@@ -22,6 +22,14 @@ h2 {
     text-align: center;
 }
 
+h3 {
+    font-size: 1.3rem;
+    font-family: 'Euphemia UCAS';
+    word-spacing: -0.5vw;
+    color: #BDA07F;
+    text-align: center;
+}
+
 p {
     font-family: 'Raleway', sans-serif;
     color: #605344;
@@ -99,8 +107,17 @@ p {
     width: 100%
 }
 
+#explore {
+    background-color: #F7F6F2;
+}
+
 #products {
     background-color: #EEEADD;
+}
+
+.chips_bags {
+    margin-left: 8%;
+    margin-right: 8%;
 }
 
 
@@ -110,6 +127,6 @@ p {
     flex-direction: row;
 }
 
-.chips_bags img {
-    width: 10%
+.bag {
+    width: 30vw;
 }
