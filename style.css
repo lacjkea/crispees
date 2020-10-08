@@ -10,7 +10,7 @@
 }
 
 .container img {
-    width: 30vw;
+    width: 35vw;
 
 }
 
@@ -42,6 +42,7 @@ p {
     */
     font-family: 'Raleway', sans-serif;
     font-style: italic;
+    font-size: 2rem;
     /*    margin-right: 20%;*/
 }
 
